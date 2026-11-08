@@ -33,4 +33,3 @@ The implementation was designed for a course GUI that provides the bit packet an
 ## Project note
 
 This is a curated version of a team course project. It is presented as collaborative work and does not imply sole authorship. The pulse helper is a modified course/textbook utility, as noted in its source comments.
-

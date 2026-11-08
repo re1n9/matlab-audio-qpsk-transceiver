@@ -1,0 +1,9 @@
+*.asv
+*.m~
+*.wav
+slprj/
+codegen/
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db
